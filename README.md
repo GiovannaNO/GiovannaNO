@@ -4,7 +4,7 @@
 <ul>
 <li>👩‍💻 Cusando Desenvolvimento de Sistemas na Etec de Peruíbe.</li>
 <li>⭐ Gosto de ler, ouvir música e jogar vôlei.</li>
-<li>📢 Melhores matérias: Literatura, história e Sistemas Embarcados.</li>
+<li>📢 Melhores matérias: Literatura, história e Banco de Dados.</li>
 </ul>
 
 "..."
